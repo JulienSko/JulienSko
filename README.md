@@ -56,19 +56,12 @@
 | Certification | Date |
 |---|---|
 | 🛡️ Cisco — Cybersecurity Essentials | Décembre 2025 |
-| 🎖️ Préparation Militaire Terre | Juin 2025 |
 | 🌐 TOEIC 870 — Anglais B2+ | — |
 
 ---
 
-## 🚀 Projets / Projects
 
-| Projet | Description | Stack |
-|---|---|---|
-| **Algorithme de navigation optimisée** | Implémentation d'un algorithme de routage et navigation optimisée | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
-| **Détection d'intrusions réseau** | Pipeline de Machine Learning pour la détection d'intrusions réseau | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-
-> Plus de projets sur mon [portfolio](https://portfolio-seven-psi-rj27fklair.vercel.app/) et mes repos GitHub ci-dessous 👇
+> Projets sur mon [portfolio](https://portfolio-seven-psi-rj27fklair.vercel.app/) et mes repos GitHub ci-dessous 👇
 
 ---
 
