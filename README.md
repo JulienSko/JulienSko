@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/julien-skorupinski-18bb23291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-seven-psi-rj27fklair.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.root-me.org/JulienSko?lang=fr"><img src="https://img.shields.io/badge/Root--Me-1a1a2e?style=for-the-badge&logo=hackthebox&logoColor=9fef00"/></a>
   <a href="mailto:julien.skorupinski@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
